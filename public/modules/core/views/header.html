@@ -1,0 +1,103 @@
+<div class="container-fluid no-padding bg-info" data-ng-controller="HeaderController">
+	<div class="navbar-header">
+		<button class="navbar-toggle" type="button" data-ng-click="toggleCollapsibleMenu()">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+        <ul class="nav navbar-nav">
+            <li ui-route="/" ng-class="{active: $uiRoute}">
+                <a data-ui-sref="home"><i class="fa fa-home fa-lg"></i></a>
+            </li>
+        </ul>
+	</div>
+	<nav class="collapse navbar-collapse" collapse="!isCollapsed" role="navigation">
+		<ul class="nav navbar-nav">
+
+            <li ui-route="/dashboard/.*" ng-class="{active: $uiRoute}" data-ng-if="authentication.user">
+                <a data-ui-sref="dashboard.account">
+                    <i class="fa fa-dashboard"></i>
+                    <span>{{ 'MENU_DASHBOARD' | translate}}</span>
+                </a>
+            </li>
+
+            <!-- li data-ng-if="showWptMenu()" ui-route="/wpt/.*" ng-class="{active: $uiRoute}" dropdown="true">
+                <a class="dropdown-toggle">
+                    <span>{{ 'MENU_WEBPIVOTTABLE' | translate}}</span>
+                    <i class="fa fa-caret-down"></i>
+                </a>
+                <ul class="dropdown-menu">
+                    <li>
+                        <a ng-click="openSaveReportDialog()">{{ 'MENU_WEBPIVOTTABLE_SAVE' | translate}}</a>
+                    </li>
+                </ul>
+            </li-->
+		</ul>
+
+        <div class="pull-left menu" data-ng-if="!showLoadDataMenu()">
+            <a class="btn btn-success" data-ui-sref="wpt.public">{{ 'ACTION_CREATE_NEW_REPORT' | translate}}</a>
+        </div>
+
+        <div class="pull-left menu" data-ng-if="showLoadDataMenu()">
+            <a class="btn btn-success" ng-click="openLoadDataDialog()">{{ 'MENU_LOADDATA' | translate}}</a>
+            <a class="btn btn-success" ng-click="openLoadCubeDialog()">{{ 'MENU_LOADCUBE' | translate}}</a>
+            <a class="btn btn-success" ng-click="openSaveReportDialog()">{{ 'MENU_SAVEREPORT' | translate}}</a>
+        </div>
+
+        <div class="pull-left menu"  data-ng-if="showWptEditMenu()">
+            <a class="btn btn-success" ng-click="openShareReportDialog()">{{ 'MENU_SHAREREPORT' | translate}}</a>
+        </div>
+
+		<ul class="nav navbar-nav navbar-right" data-ng-hide="authentication.user">
+			<li ui-route="/signin" ng-class="{active: $uiRoute}">
+                <a ng-click="openAuthenticationDialog()">
+                    <span>{{ 'MENU_SIGNIN' | translate}}</span>
+                </a>
+			</li>
+		</ul>
+		<ul class="nav navbar-nav navbar-right" data-ng-show="authentication.user">
+			<li class="dropdown" ui-route="/settings/.*" ng-class="{active: $uiRoute}">
+				<a href="#" class="dropdown-toggle" data-toggle="dropdown">
+                    <i class="fa fa-user"></i>
+                    <span data-ng-bind="authentication.user.username"></span>
+                    <i class="fa fa-caret-down"></i>
+				</a>
+				<ul class="dropdown-menu">
+					<li>
+						<a ng-click="openProfileEditDialog()">
+                            <i class="fa fa-edit"></i>
+                            <span>{{ 'MENU_EDIT_PROFILE' | translate}}</span>
+                        </a>
+					</li>
+					<li data-ng-show="authentication.user.provider === 'local'">
+						<a ng-click="openPasswordChangeDialog()">
+                            <i class="fa fa-key"></i>
+                            <span>{{ 'MENU_CHANGE_PASSWORD' | translate}}</span>
+                        </a>
+					</li>
+					<li class="divider"></li>
+					<li>
+                        <a ng-click="signout()">
+                            <i class="fa fa-sign-out"></i>
+                            <span>{{ 'MENU_SIGNOUT' | translate}}</span>
+                        </a>
+					</li>
+				</ul>
+			</li>
+		</ul>
+        <ul class="nav navbar-nav navbar-right">
+            <li class="dropdown">
+                <a class="dropdown-toggle" data-toggle="dropdown">
+                    <span>{{currentLocale.translationId | translate}}</span>
+                    <i class="fa fa-caret-down"></i>
+                </a>
+                <ul class="dropdown-menu">
+                    <li data-ng-repeat="item in availableLocales">
+                        <a ng-click="changeLocale(item)">{{item.translationId | translate}} ( {{item.attach}} )</a>
+                    </li>
+                </ul>
+            </li>
+        </ul>
+	</nav>
+</div>

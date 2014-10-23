@@ -1,0 +1,97 @@
+<div class="modal-header">
+    <h3 class="modal-title">{{ 'DIALOG_REPORT_SAVE_TITLE' | translate }}</h3>
+</div>
+<div class="modal-body">
+
+    <tabset>
+        <tab heading="{{ 'REPORT_SAVE_TO_LOCAL' | translate  }}" select="selectTab()">
+
+            <form name="localForm" data-ng-submit="saveToLocal()" class="form-horizontal" >
+
+                <fieldset>
+
+                    <div style="height:20px;"></div>
+                    <div class="form-group">
+                        <label class="col-md-3 control-label">{{ 'REPORT_FILE_NAME' | translate  }}</label>
+
+                        <div class="col-md-6" >
+                            <input type="text" name="fileName" class="form-control" data-ng-model="data.fileName" required>
+                        </div>
+                        <div class="col-md-3">
+                            <div class='formMessage' ng-messages='localForm.fileName.$error' ng-messages-include='/modules/core/views/template/messages.html'></div>
+                        </div>
+                    </div>
+
+                    <div class="form-group">
+                        <div class="col-md-9 col-md-offset-3" >
+                            <div ng-show="isFileSaverSupported">
+                                <button type="submit" class="btn btn-primary">{{ 'ACTION_SAVE' | translate}}</button>
+                            </div>
+                            <div ng-hide="isFileSaverSupported" class="text-danger">
+                                <strong> {{ 'REPORT_SAVE_LOCAL_NOT_SUPPORT' | translate}} </strong>
+                            </div>
+                        </div>
+                    </div>
+                </fieldset>
+            </form>
+        </tab>
+
+        <tab heading="{{ 'REPORT_SAVE_TO_SERVER' | translate  }}"  select="selectTab()">
+            <form name="serverForm" data-ng-submit="saveToServer()" class="form-horizontal" >
+
+                <fieldset>
+
+                    <div style="height:20px;"></div>
+                    <div ng-show="authentication.user">
+                        <div class="form-group">
+                            <label class="col-md-3 control-label">{{ 'REPORT_TITLE' | translate  }}</label>
+                            <div class="col-md-6">
+                                <input type="text" name='title' ng-model="data.title" class="form-control" required>
+                            </div>
+                            <div class="col-md-3">
+                                <div class='formMessage' ng-messages='serverForm.title.$error' ng-messages-include='/modules/core/views/template/messages.html'></div>
+                            </div>
+                        </div>
+
+                        <div class="form-group">
+                            <label class="col-md-3 control-label">{{ 'REPORT_DESCRIPTION' | translate  }}</label>
+                            <div class="col-md-6">
+                                <input type="text" name='description' ng-model="data.description" class="form-control" required>
+                            </div>
+                            <div class="col-md-3">
+                                <div class='formMessage' ng-messages='serverForm.description.$error' ng-messages-include='/modules/core/views/template/messages.html'></div>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-9 col-md-offset-3" >
+                                <button type="submit" class="btn btn-primary">{{ 'ACTION_SAVE' | translate}}</button>
+                            </div>
+                        </div>
+                    </div>
+                    <div ng-hide="authentication.user">
+                        <div class="form-group">
+                            <label class="col-md-3 control-label">{{ 'REPORT_SAVE_SIGNIN_FIRST' | translate}}</label>
+                            <div class="col-md-9" >
+                                <button class="btn btn-primary" ng-click="openAuthenticationDialog('signin')">{{ 'MENU_SIGNIN' | translate}}</button>
+                            </div>
+                        </div>
+                    </div>
+                </fieldset>
+
+            </form>
+        </tab>
+    </tabset>
+
+    <div  class="form-group">
+        <div class="col-md-9 col-md-offset-3" ng-include="'/modules/core/views/template/statuses.html'" />
+    </div>
+
+</div>
+<div class="modal-footer">
+    <button ng-show="savedReportId" class="btn btn-success" ng-click="openSavedReport()">
+        <i class="fa fa-edit"></i>
+        {{ 'ACTION_OPEN_REPORT' | translate}}
+    </button>
+    <!--button class="btn btn-primary" ng-click="ok()">{{ 'ACTION_OK' | translate}}</button-->
+    <button class="btn btn-warning" ng-click="cancel()">{{ 'ACTION_CANCEL' | translate}}</button>
+</div>

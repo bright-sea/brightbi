@@ -1,0 +1,51 @@
+<div class="modal-header">
+    <h3 class="modal-title">{{ 'DIALOG_CUBE_LOAD_TITLE' | translate }}</h3>
+</div>
+<div class="modal-body">
+
+
+    <form class="form-horizontal" role="form">
+
+        <fieldset>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label">{{ 'CUBE_XMLA_URL' | translate  }}</label>
+                <div class="col-md-7" >
+                    <input type="text" name="xmlaUrl" class="form-control" data-ng-model="data.xmlaUrl">
+                </div>
+                <div class="col-md-2" >
+                    <button class="btn btn-primary" ng-click="getCubeTree()">{{ 'ACTION_GET' | translate}}</button>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-9  col-md-offset-3" >
+
+                    <div ng-show="cubeTreeData.length>0">
+                        <abn-tree
+                                tree-data="cubeTreeData"
+                                on-select="onSelectCube(branch)"
+                                expand-level="2">
+                        </abn-tree>
+                    </div>
+
+                    <div ng-show="cubeSelected" >
+                        <button class="btn btn-primary" ng-click="loadCube()">{{ 'ACTION_LOAD' | translate}}</button>
+                    </div>
+
+                </div>
+            </div>
+
+        </fieldset>
+
+    </form>
+
+    <div  class="form-group">
+        <div class="col-md-9 col-md-offset-3" ng-include="'/modules/core/views/template/statuses.html'" />
+    </div>
+
+</div>
+<div class="modal-footer">
+    <!--button class="btn btn-primary" ng-click="ok()">{{ 'ACTION_OK' | translate}}</button-->
+    <button class="btn btn-warning" ng-click="cancel()">{{ 'ACTION_CANCEL' | translate}}</button>
+</div>

@@ -1,0 +1,26 @@
+{
+    "name": "BrightBI",
+    "version": "0.1.0",
+    "description": "A BI solution leverage WebPivotTable component to analyze data dynamically and to share reports within enterprise.",
+    "dependencies": {
+        "bootstrap": "~3",
+        "angular": "~1.3",
+        "angular-resource": "~1.3",
+        "angular-animate": "~1.3",
+        "angular-mocks": "~1.3",
+        "angular-messages": "~1.3",
+        "angular-bootstrap": "~0.11.0",
+        "angular-ui-utils": "~0.1.1",
+        "angular-ui-router": "~0.2.10",
+        "angular-grid": "~2.0",
+        "ng-file-upload": "~1.6.5",
+        "angular-translate": "~2.2.0",
+        "js-xls": "~0.7.0",
+        "js-xlsx": "~0.7.0",
+        "Blob": "master",
+        "FileSaver": "master",
+        "angular-bootstrap-nav-tree": "master",
+        "fontawesome": "~4",
+        "webpivottable": "~2.4.1"
+    }
+}

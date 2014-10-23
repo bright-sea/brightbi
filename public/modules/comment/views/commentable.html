@@ -1,0 +1,15 @@
+<div>
+    <div ng-repeat="comment in comments"
+         ng-include=" '/modules/comment/views/comment.html' ">
+    </div>
+
+    <div class="form-group">
+        <textarea ng-model="formComment.body"
+                  placeholder="{{ 'COMMENT_ADD_COMMENT' | translate }}"
+                  class="form-control" rows="3">
+        </textarea>
+        <button class="btn btn-default"
+                ng-click="createComment()">{{ 'COMMENT_SAVE' | translate }}</button>
+    </div>
+
+</div>

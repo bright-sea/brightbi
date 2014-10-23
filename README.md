@@ -1,0 +1,1 @@
+A BI solution leverage WebPivotTable component to analyze data dynamically and to share reports within enterprise.
