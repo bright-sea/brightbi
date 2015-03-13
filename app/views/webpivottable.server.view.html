@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+    {% if !wpt %}
+    <title> New WebPivotTable</title>
+    {% else %}
+    <title> {{ wpt.title }}</title>
+    {% endif %}
+
+
+    <!-- General META -->
+    <meta charset="utf-8">
+    <meta http-equiv="Content-type" content="text/html;charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+
+    <!-- Semantic META -->
+    <meta name="keywords" content="{{keywords}}">
+    <meta name="description" content="{{description}}">
+    
+    <script data-pace-options='{ "ajax": false, "restartOnRequestAfter": false }' 
+            src="/lib/pace/pace.js"></script>
+    <link href="/lib/pace/themes/blue/pace-theme-loading-bar.css" rel="stylesheet" />
+
+    <!-- Fav Icon -->
+    <link href="/modules/core/img/brand/favicon.ico" rel="shortcut icon" type="image/x-icon">
+
+    <style type="text/css">
+        html, body, #wpt-container {width:100%;height:100%;}
+    </style>
+
+    <link rel="stylesheet" href="/wpt/wpt.css">
+
+    <!--Embedding The User Object-->
+    <script type="text/javascript">
+        var appTitle = "{{title}}",
+            appDescription = "{{description}}",
+            wpt = {{ wpt | json | safe}},
+            user = {{ user | json | safe }},
+            dojoConfig = {{ wptSetting.dojoConfig | json | safe }},
+            wptOptions = {{ wptSetting.options | json | safe }};
+    </script>
+
+
+    <script type="text/javascript" src="/lib/dojo/dojo.js" ></script>
+    <script type="text/javascript" src="/lib/filepicker/index.js"></script>
+    <script type="text/javascript" src="/lib/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="/lib/highcharts-release/highcharts-all.js"></script>
+    <script type="text/javascript" src="/lib/grouped_categories/grouped-categories.js"></script>
+
+    <script type="text/javascript">
+        require(["dojo/request","wpt/WebPivotTable","dojo/domReady!"], function(request){
+
+
+            console.log('requaste', window.request);
+            var webPivotTable = new window.WebPivotTable({
+                customOptions: window.wptOptions
+            },"wpt-container");
+
+            if (window.wpt){
+                request.get("/wptfiles?wptFileId="+wpt.reportFileId).then(
+                  function(response){
+                      webPivotTable.setWptString(response);
+                  }
+                );
+            }
+        });
+        
+    </script>
+
+
+</head>
+
+<body class="claro">
+
+<div id="wpt-container"></div>
+
+</body>
+
+</html>

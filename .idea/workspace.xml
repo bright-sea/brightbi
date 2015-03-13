@@ -1,0 +1,1524 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a63812e8-8626-4f06-abcd-176bbcd08245" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/FileAPI.flash.swf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/fonts/FontAwesome.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/angular.min.js.gzip" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/resources/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/Dialog/images/dialogCloseButton.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/Dialog/images/dialogCloseButton.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/resources/images/dndCopy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/resources/images/dndMove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/resources/images/dndNoCopy.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/resources/images/dndNoMove.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/fonts/fontawesome-webfont.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/fonts/fontawesome-webfont.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/fonts/fontawesome-webfont.woff2" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/fonts/fontawesome-webfont.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/ColorPicker/images/hue.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/ColorPicker/images/hueHandle.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/ColorPicker/images/hueHandleA11y.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/ColorPicker/images/pickerPointer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/ColorPicker/images/underlay.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-utils/CHANGELOG.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/CONTRIBUTING.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/ColorPicker/ColorPicker.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/ColorPicker/ColorPicker.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ar/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/az/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/bg/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ca/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/cs/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/da/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/de/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/el/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/es/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/fi/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/fr/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/he/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/hr/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/hu/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/id/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/it/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ja/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/kk/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ko/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/nb/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/nl/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/pl/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/pt/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/pt-pt/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ro/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ru/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/sk/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/sl/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/sv/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/th/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/tr/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/uk/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/zh/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/zh-tw/ColorPicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ar/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/az/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/bg/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ca/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/cs/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/da/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/de/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/el/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/es/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/fi/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/fr/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/he/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/hr/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/hu/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/id/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/it/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ja/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/kk/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ko/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/nb/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/nl/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/pl/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/pt/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/pt-pt/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ro/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ru/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/sk/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/sl/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/sv/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/th/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/tr/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/uk/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/zh/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/zh-tw/ComboBox.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/Dialog/Dialog.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/Dialog/Dialog.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/FileAPI.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ar/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/az/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/bg/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ca/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/cs/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/da/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/de/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/el/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/es/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/fi/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/fr/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/he/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/hr/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/hu/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/id/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/it/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ja/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/kk/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ko/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/nb/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/nl/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/pl/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/pt/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/pt-pt/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ro/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ru/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/sk/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/sl/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/sv/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/th/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/tr/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/uk/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/zh/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/zh-tw/FilePicker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ar/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/az/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/bg/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ca/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/cs/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/da/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/de/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/el/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/es/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/fi/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/fr/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/he/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/hr/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/hu/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/id/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/it/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ja/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/kk/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ko/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/nb/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/nl/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/pl/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/pt/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/pt-pt/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ro/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ru/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/sk/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/sl/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/sv/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/th/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/tr/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/uk/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/zh/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/zh-tw/FontChoice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/resources/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap-nav-tree/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ar/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/az/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/bg/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ca/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/cs/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/da/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/de/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/el/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/es/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/fi/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/fr/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/he/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/hr/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/hu/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/id/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/it/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ja/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/kk/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ko/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/nb/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/nl/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/pl/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/pt/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/pt-pt/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ro/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ru/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/sk/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/sl/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/sv/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/th/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/tr/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/uk/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/zh/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/zh-tw/LinkDialog.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/MIT-LICENSE.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-animate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/plugins/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-messages/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-mocks/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-translate/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/grouped_categories/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ar/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/az/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/bg/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ca/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/cs/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/da/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/de/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/el/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/es/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/fi/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/fr/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/he/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/hr/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/hu/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/id/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/it/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ja/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/kk/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ko/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/nb/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/nl/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/pl/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/pt/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/pt-pt/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ro/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ru/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/sk/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/sl/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/sv/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/th/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/tr/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/uk/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/zh/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/zh-tw/Textarea.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/effects/Tween.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/WebPivotTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/es/WebPivotTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/it/WebPivotTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/pt/WebPivotTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/zh/WebPivotTable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ar/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/az/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/bg/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ca/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/cs/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/da/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/de/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/el/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/es/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/fi/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/fr/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/he/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/hr/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/hu/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/id/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/it/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ja/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/kk/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ko/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/nb/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/nl/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/pl/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/pt/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/pt-pt/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ro/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/ru/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/sk/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/sl/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/sv/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/th/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/tr/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/uk/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/zh/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojox/widget/nls/zh-tw/Wizard.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/_DnD-touch-autoscroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_animated.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_bordered-pulled.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_core.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/manipulation/_evalUrl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_fixed-width.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_larger.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_list.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_path.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_rotated-flipped.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_stacked.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap-nav-tree/dist/abn_tree.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap-nav-tree/dist/abn_tree_directive.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/data/accepts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core/access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/addGetHookIf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/event/ajax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/event/alias.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/exports/amd.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-animate/angular-animate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-animate/angular-animate.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-animate/angular-animate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/angular-csp.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/angular-file-upload-html5-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/angular-file-upload-html5-shim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/angular-file-upload-shim.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/angular-file-upload-shim.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/angular-file-upload.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/angular-file-upload.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-messages/angular-messages.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-messages/angular-messages.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-messages/angular-messages.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-mocks/angular-mocks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/angular-resource.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/angular-resource.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/angular-resource.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-translate/angular-translate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-translate/angular-translate.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/api/angular-ui-router.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/release/angular-ui-router.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/release/angular-ui-router.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/angular.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/angular.min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/angular.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/animated.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/effects/animatedSelector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/article.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/articles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/articles.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes/attr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/authentication.bak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/authentication.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/authorization.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/resources/blank.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/bordered-pulled.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-animate/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap-nav-tree/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-messages/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-mocks/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-translate/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-utils/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/ng-file-upload/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ca/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/cs/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/da/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/de/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/el/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/es/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fi/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/it/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nb/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt-pt/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ro/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/buddhist.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/callbacks.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/canvas-tools.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/canvas-tools.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ca/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/cs/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/de/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-au/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-gb/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/es/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fi/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/it/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt-pt/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ro/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/chinese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/class2type.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes/classes.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/ar/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/az/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/bg/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/ca/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/cs/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/da/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/de/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/el/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/es/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/fi/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/fr/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/he/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/hr/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/hu/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/id/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/it/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/ja/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/kk/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/ko/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/nb/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/nl/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/pl/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/pt/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/pt-pt/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/ro/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/ru/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/sk/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/sl/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/sv/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/th/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/tr/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/uk/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/zh/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/nls/zh-tw/colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/columnHider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/es/columnHider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/ro/columnHider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/sl/columnHider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ar/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/az/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/bg/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ca/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/cs/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/da/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/de/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/el/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/es/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/fi/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/fr/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/he/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/hr/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/hu/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/id/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/it/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ja/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/kk/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ko/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/nb/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/nl/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/pl/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/pt/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/pt-pt/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ro/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/ru/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/sk/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/sl/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/sv/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/th/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/tr/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/uk/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/zh/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/_editor/nls/zh-tw/commands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/comments.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ar/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/az/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/bg/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ca/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/cs/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/da/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/de/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/el/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/es/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/fi/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/fr/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/he/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/hr/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/hu/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/id/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/it/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ja/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/kk/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ko/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/nb/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/nl/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/pl/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/pt/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/pt-pt/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ro/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ru/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/sk/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/sl/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/sv/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/th/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/tr/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/uk/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/zh/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/zh-tw/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/concat.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/config.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ro/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/coptic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/core.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/var/cssExpand.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/curCSS.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ca/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/cs/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/da/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/de/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/el/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-au/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-ca/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-gb/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/es/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fi/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr-ch/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/he/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/it/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nb/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt-pt/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ro/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sk/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sl/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hk/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-tw/currency.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/dangi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/dangi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/dangi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/dangi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/dangi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/dangi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/dangi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/dangi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/themes/dark-blue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/themes/dark-green.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/themes/dark-unica.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/data.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/data.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/defaultDisplay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/deferred.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/queue/delay.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/deletedIds.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/deprecated.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/dimensions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/resources/dnd.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/resources/dojo.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/drilldown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/drilldown.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/effects.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/errors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ethiopic-amete-alem.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ro/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/ethiopic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/event.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/exporting.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/exporting.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/express.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/strategies/facebook.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/traversing/findFilter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/fixed-width.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/css/font-awesome.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/css/font-awesome.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/font-awesome.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/css/font-awesome.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/scss/font-awesome.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/fonts/fontawesome-webfont.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/funnel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/funnel.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ca/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/cs/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/da/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/de/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/el/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-au/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-ca/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-gb/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/es/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fi/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr-ch/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/he/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/it/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nb/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt-pt/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ro/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sk/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sl/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/generic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/strategies/github.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/exports/global.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/strategies/google.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/themes/gray.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ca/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/cs/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/da/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/de/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/el/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-au/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-ca/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-gb/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/es/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fi/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr-ch/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/he/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/it/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nb/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt-pt/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ro/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sk/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sl/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hk/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-tw/gregorian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/themes/grid-light.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/themes/grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/grouped_categories/grouped-categories.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/hasOwn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/heatmap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/heatmap.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/cs/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/da/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/de/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/el/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/es/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fi/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/he/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/it/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nb/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt-pt/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ro/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/hebrew.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/hiddenVisibleSelectors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/highcharts-3d.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/highcharts-3d.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/highcharts-all.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/highcharts-more.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/highcharts-more.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/highcharts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/highcharts.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/icons.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/resources/iframe_history.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/grouped_categories/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-animate/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-messages/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/filepicker/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/indexOf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-gb/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/indian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core/init.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/intro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/var/isHidden.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/islamic-civil.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/islamic-rgsa.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/islamic-tbla.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/islamic-umalqura.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/cs/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/da/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/de/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-au/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-gb/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/es/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fi/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/he/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/it/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nb/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt-pt/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ro/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/islamic.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/cs/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/da/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/de/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/el/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-au/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-gb/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/es/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fi/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/he/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/it/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nb/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt-pt/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/japanese.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/dist/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/dist/jquery.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/dist/jquery.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/jsonp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/larger.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layout1.server.view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/grouped_categories/license.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/strategies/linkedin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/list.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/load.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ar/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/az/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/bg/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ca/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/cs/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/da/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/de/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/el/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/es/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/fi/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/fr/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/he/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/hr/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/hu/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/id/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/it/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ja/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/kk/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ko/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/nb/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/nl/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/pl/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/pt/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/pt-pt/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ro/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/ru/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/sk/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/sl/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/sv/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/th/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/tr/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/uk/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/zh/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/nls/zh-tw/loading.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/strategies/local.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/logger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/grouped_categories/manifest.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/manipulation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/mixins.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/ng-grid-2.0.14.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/ng-grid-2.0.14.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/plugins/ng-grid-csv-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/plugins/ng-grid-flexible-height.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/plugins/ng-grid-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/plugins/ng-grid-pdf-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/plugins/ng-grid-reorderable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/plugins/ng-grid-wysiwyg-export.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/ng-grid.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/build/ng-grid.debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/build/ng-grid.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/ng-grid.min.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/build/ng-grid.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-mocks/ngAnimateMock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-mocks/ngMock.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-mocks/ngMockE2E.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/no-data-to-display.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/no-data-to-display.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/var/nonce.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ca/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/cs/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/da/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/de/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/el/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en-au/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/es/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fi/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr-ch/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/he/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/it/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nb/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt-pt/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ro/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sk/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sl/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hk/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-tw/number.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/offset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/outro.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-animate/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-messages/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-mocks/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-resource/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/ar/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/de/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/es/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/fr/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/ja/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/pt/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/ro/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/sk/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/sl/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/th/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/zh-cn/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/extensions/nls/zh-hk/pagination.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core/parseHTML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/parseJSON.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/parseXML.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/passport.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/password.bak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/password.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/path.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/persian.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-grid/plugins/playground.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/pnum.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/production.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/profile.bak" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/profile.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes/prop.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/push.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/queue.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/manipulation/var/rcheckableType.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core/ready.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/templates/reset-password-confirm-email.server.view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/templates/reset-password-email.server.view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/resolve.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/var/rmargin.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/traversing/var/rneedsContext.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/rnotwhite.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/var/rnumnonpx.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ar/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ca/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/cs/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/da/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/de/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/el/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/en/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/es/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fi/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/fr/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/hu/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/it/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ja/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ko/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nb/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/nl/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pl/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/pt-pt/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/ru/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/sv/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/th/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/tr/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dojo/cldr/nls/zh-hant/roc.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/rotated-flipped.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/var/rquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/core/var/rsingleTag.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/themes/sand-signika.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/script.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/selector-sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/serialize.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/sizzle/dist/sizzle.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/sizzle/dist/sizzle.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/sizzle/dist/sizzle.min.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/themes/skies.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/slice.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/solid-gauge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/modules/solid-gauge.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/stacked.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/adapters/standalone-framework.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/highcharts-release/adapters/standalone-framework.src.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/state.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/stateDirectives.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/stateFilters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/strundefined.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/grouped_categories/css/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/data/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/effects/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/event/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/manipulation/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/support.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/css/swap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/templateFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/var/toString.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dgrid/util/touch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/traversing.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/strategies/twitter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/ui-bootstrap-tpls.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/ui-bootstrap-tpls.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/ui-bootstrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-bootstrap/ui-bootstrap.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-utils/ui-utils-ieshiv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-utils/ui-utils-ieshiv.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-utils/ui-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-utils/ui-utils.min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/urlMatcherFactory.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/urlRouter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/user.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/users.authentication.server.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/users.authorization.server.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/users.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/users.password.server.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/users/users.profile.server.controller.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/attributes/val.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ar/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/az/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/bg/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ca/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/cs/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/da/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/de/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/el/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/es/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/fi/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/fr/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/he/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/hr/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/hu/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/id/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/it/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ja/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/kk/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ko/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/nb/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/nl/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/pl/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/pt/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/pt-pt/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ro/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/ru/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/sk/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/sl/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/sv/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/th/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/tr/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/uk/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/zh/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/dijit/form/nls/zh-tw/validate.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/fontawesome/less/variables.less" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/viewDirective.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/angular-ui-router/src/viewScroll.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/webpivottable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/webpivottable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/webpivottable.server.view.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/wpt.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/wpt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/wpt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/wpt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/wptReport.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_ROOT.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_ar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_ca.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_cs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_da.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_de.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_el.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_en-gb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_en-us.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_es-es.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_fi-fi.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_fr-fr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_he-il.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_hu.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_it-it.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_ja-jp.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_ko-kr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_nb.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_nl-nl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_pl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_pt-br.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_pt-pt.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_ru.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_sk.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_sl.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_sv.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_th.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_tr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_zh-cn.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/brightsea/wpt/nls/wpt_zh-tw.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/wpts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/routes/wpts.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/wrap.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/lib/jquery/src/ajax/xhr.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.bowerrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/core.server.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/users.server.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/wpt.server.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/controllers/wpts.server.controller.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/models/user.server.model.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/routes/comments.server.routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/routes/users.server.routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/routes/wpt.server.routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/routes/wpts.server.routes.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/app/tests/user.server.model.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/config.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/env/all.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/env/production.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/express.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/init.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/passport.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/strategies/facebook.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/strategies/google.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/strategies/linkedin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/strategies/local.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/config/strategies/twitter.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/comment/views/comment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/comment/views/commentable.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/comment/views/edit.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/comment/views/reply.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/core/views/confirm-dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/core/views/header.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/core/views/home.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/core/views/template/messages.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/core/views/template/statuses.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/dashboard/views/dashboard-account.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/dashboard/views/dashboard-report.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/dashboard/views/dashboard.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/dashboard/views/report-create.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/users/views/authentication-dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/users/views/password-change-dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/users/views/password-reset.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/users/views/profile-edit-dialog.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/users/views/settings/social-accounts.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/wpts/views/cube-load.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/wpts/views/data-load.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/wpts/views/report-save.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/wpts/views/report-share.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/modules/wpts/views/wpt-edit.html" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/controllers/comments.server.controller.js" afterPath="$PROJECT_DIR$/app/controllers/comments.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/models/comment.server.model.js" afterPath="$PROJECT_DIR$/app/models/comment.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/models/wpt.server.model.js" afterPath="$PROJECT_DIR$/app/models/wpt.js" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/app/routes/core.server.routes.js" afterPath="$PROJECT_DIR$/app/routes/core.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/dist/application.min.css" afterPath="$PROJECT_DIR$/public/dist/application.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/dist/application.min.js" afterPath="$PROJECT_DIR$/public/dist/application.min.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layout.server.view.html" afterPath="$PROJECT_DIR$/app/views/layout.server.view.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/package.json" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/server.js" afterPath="$PROJECT_DIR$/server.js" />
+    </list>
+    <ignored path="brightbi.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="brightbi" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="production.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/production.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3090">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="server.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/server.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.9539078" vertical-offset="476" max-vertical-offset="975">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="40.208332" vertical-offset="965" max-vertical-offset="1440">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="178.75" vertical-offset="4290" max-vertical-offset="5940">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="4605">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="47" />
+    <option name="y" value="23" />
+    <option name="width" value="1393" />
+    <option name="height" value="877" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="brightbi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="brightbi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="brightbi" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="editorconfig.notification" value="Applied .editorconfig settings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" config-file="">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
+      <setting name="configLocationType" value="CONFIG_FILE" />
+      <setting name="settingsFile" value="" />
+      <setting name="serverType" value="INTERNAL" />
+      <setting name="preferredDebugBrowser" value="Chrome" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a63812e8-8626-4f06-abcd-176bbcd08245" name="Default" comment="" />
+      <created>1414071600990</created>
+      <option name="number" value="Default" />
+      <updated>1414071600990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="47" y="23" width="1393" height="877" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3303685" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33382678" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/config/production.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3090">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="40.208332" vertical-offset="965" max-vertical-offset="1440">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="178.75" vertical-offset="4290" max-vertical-offset="5940">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4605">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/server.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.9539078" vertical-offset="476" max-vertical-offset="975">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
