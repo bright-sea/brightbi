@@ -1,0 +1,24 @@
+<div class="Wrapper">
+  <img src="/modules/core/img/BI_Banner.jpg" class="img-responsive">
+    <div class="jumbotron">
+        <h1>{{ appTitle }}</h1>
+        <p>{{ appDescription }}</p>
+        <p>
+            <a class="btn btn-info" href="http://brightbi.net" target="_blank">
+                <span>{{'HOME_LEARN_MORE' | translate }}</span>
+                <i class="fa fa-angle-double-right"></i>
+            </a>
+            <a ng-hide="authentication.user" class="btn btn-primary" ng-click="openAuthenticationDialog('signin')">
+                <i class="fa fa-sign-in"></i>
+                <span>{{'MENU_SIGNIN' | translate }}</span>
+            </a>
+            <a ng-show="authentication.user" class="btn btn-primary" href="/auth/signout">
+                <i class="fa fa-sign-out"></i>
+                <span>{{'MENU_SIGNOUT' | translate }}</span>
+            </a>
+        </p>
+    </div>
+
+
+</div>
+

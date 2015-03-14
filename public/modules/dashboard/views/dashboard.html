@@ -1,0 +1,59 @@
+    <div class="row-fluid">
+        <div class="col-md-3 bg-success LeftNavigation">
+
+            <div class="containBox">
+                <button class="btn btn-info" ng-click="showAccount()" style="display: block; width: 100%;">
+                    <i class="pull-left fa fa-user"></i>
+                    <span class="pull-left"> {{ 'ACTION_YOUR_ACCOUNT' | translate: { username: authentication.user.username } }}</span>
+                    <i class="pull-right fa fa-chevron-right"></i>
+                </button>
+            </div>
+
+            <div class="containBox">
+                <button class="btn btn-primary" ng-click="openNewWpt()" style="display: block; width: 100%;">
+                    {{ 'ACTION_CREATE_NEW_REPORT' | translate }}
+                </button>
+            </div>
+
+            <div class="containBox">
+                <input type="search" class="form-control" data-ng-model="query" placeholder="{{ 'ACTION_QUICK_SEARCH' | translate }}">
+            </div>
+
+            <div class="containBox">
+            <accordion close-others="false">
+                <accordion-group is-open="status.activeOpen">
+                    <accordion-heading>
+                        <i class="pull-left fa" ng-class="{'fa-minus-square-o': status.activeOpen, 'fa-plus-square-o': !status.activeOpen}"></i>
+                        <span>{{ 'DASHBOARD_ACTIVE_REPORTS' | translate }}</span>
+                    </accordion-heading>
+                    <ul class="list-unstyled" ng-repeat="wpt in wpts | filter:{title:query} | filter: isNotArchived">
+                        <li>
+                            <a ng-click="showReport(wpt)" >
+                                <span >{{wpt.title}}</span>
+                                <i class="pull-right fa fa-chevron-right"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </accordion-group>
+                <accordion-group is-open="status.archiveOpen">
+                    <accordion-heading>
+                        <i class="pull-left fa" ng-class="{'fa-minus-square-o': status.archiveOpen, 'fa-plus-square-o': !status.archiveOpen}"></i>
+                        <span>{{ 'DASHBOARD_ARCHIVED_REPORTS' | translate }}</span>
+                    </accordion-heading>
+                    <ul class="list-unstyled"  ng-repeat="wpt in wpts | filter:{title:query} | filter: isArchived">
+                        <li>
+                            <a ng-click="showReport(wpt)" >
+                                <span >{{wpt.title}}</span>
+                                <i class="pull-right fa fa-chevron-right"></i>
+                            </a>
+                        </li>
+                    </ul>
+                </accordion-group>
+            </accordion>
+            </div>
+        </div>
+        <div class="col-md-9 Content">
+            <div ui-view />
+        </div>
+    </div>
+

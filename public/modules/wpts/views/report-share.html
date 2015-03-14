@@ -1,0 +1,49 @@
+<div class="modal-header">
+    <h3 class="modal-title">{{ 'DIALOG_REPORT_SHARE_TITLE' | translate }}</h3>
+</div>
+<div class="modal-body">
+
+
+    <form name="shareForm" data-ng-submit="share()" class="form-horizontal" novalidate>
+
+        <fieldset>
+
+            <div style="height:20px;"></div>
+            <div class="form-group">
+                <label class="col-md-3 control-label">{{ 'REPORT_URL' | translate  }}</label>
+
+                <div class="col-md-9" >
+                    <input type="text" name="url" class="form-control" data-ng-model="data.url" required>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label">{{'REPORT_SEND_TO' | translate }}</label>
+                <div class="col-md-6"  ng-class="{'has-error': shareForm.email.$invalid}">
+                    <input type="email" name="email" class="form-control" data-ng-model="data.email" required>
+                </div>
+                <div class="col-md-3">
+                    <div class='formMessage' ng-messages='shareForm.email.$error' ng-messages-include='/modules/core/views/template/messages.html'></div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <div class="col-md-9 col-md-offset-3" >
+                    <button type="submit" class="btn btn-primary" ng-disabled="!shareForm.$valid">
+                        {{'ACTION_SEND' | translate }}</button>
+                </div>
+            </div>
+
+        </fieldset>
+
+    </form>
+
+    <div  class="form-group">
+        <div class="col-md-9 col-md-offset-3" ng-include="'/modules/core/views/template/statuses.html'" />
+    </div>
+
+</div>
+<div class="modal-footer">
+    <!--button class="btn btn-primary" ng-click="ok()">{{ 'ACTION_OK' | translate}}</button-->
+    <button class="btn btn-warning" ng-click="cancel()">{{ 'ACTION_CANCEL' | translate}}</button>
+</div>

@@ -1,0 +1,85 @@
+<div class="modal-header">
+    <h3 class="modal-title">{{ 'DIALOG_DATA_LOAD_TITLE' | translate }}</h3>
+</div>
+<div class="modal-body">
+    <form class="form-horizontal">
+
+        <fieldset>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label">{{ 'DATA_FILE_TYPE' | translate  }}</label>
+                <div class="col-md-9" >
+                    <div data-ng-repeat="type in fileTypes">
+                        <input
+                                name="fileType"
+                                type="radio"
+                                value="{{ type.value }}"
+                                ng-model="data.fileType" />
+                        &nbsp; {{ type.label | translate  }} <br/>
+                    </div>
+                </div>
+            </div>
+
+            <div class="form-group">
+                <label class="col-md-3 control-label">{{ 'DATA_FILE_SOURCE' | translate  }}</label>
+                <tabset class="col-md-9">
+                    <tab heading="{{ 'DATA_FILE_SOURCE_LOCAL' | translate  }}" select="selectTab()">
+                        <form class="form-horizontal">
+                            <div style="height:20px;"></div>
+                            <div class="btn btn-primary" ng-file-select="onFileSelect($files)">{{ 'ACTION_SELECT_LOCAL' | translate}}</div>
+                            <div ng-show="selectedFile">
+                                <p class="bg-info">
+                                    Name: {{selectedFile.name}} <br/>
+                                    Size: {{selectedFile.size | number}} B <br/>
+                                    Type: {{selectedFile.type}}
+                                </p>
+                                <button class="btn btn-primary" ng-click="start()" ng-show="progress < 0">{{ 'ACTION_LOAD' | translate}}</button>
+                                <button class="btn btn-warning" ng-click="abort()" ng-show="upload && progress < 100">{{ 'ACTION_ABORT' | translate}}</button>
+
+                                <div class="col-md-4" ng-show="false && progress >= 0">
+                                    <progressbar value="progress" type="success"><b>{{progress}}%</b></progressbar>
+                                </div>
+                            </div>
+                        </form>
+
+                    </tab>
+                    <tab heading="{{ 'DATA_FILE_SOURCE_LINK' | translate  }}" select="selectTab()">
+                        <form class="form-horizontal">
+                            <div style="height:20px;"></div>
+                            <label class="control-label">{{ 'DATA_FILE_URL' | translate }}</label>
+                            <input type="text" name="fileUrl" class="form-control" data-ng-model="data.fileUrl">
+                            <button class="btn btn-primary" ng-click="downloadFile()">{{ 'ACTION_LOAD' | translate}}</button>
+
+                        </form>
+                    </tab>
+                    <tab heading="{{ 'DATA_FILE_SOURCE_CLOUD' | translate  }}" select="selectTab()">
+                        <form class="form-horizontal">
+                            <div style="height:20px;"></div>
+                            <button class="btn btn-primary" ng-click="gotoCloudDrive()">{{ 'ACTION_SELECT_CLOUD' | translate}}</button>
+                            <div ng-show="fpFile">
+                                <p class="bg-info">
+                                    Name: {{fpFile.filename}} <br/>
+                                    Size: {{fpFile.size | number}} B <br/>
+                                    Type: {{fpFile.mimetype}} <br/>
+                                    URL: {{fpFile.url}}
+                                </p>
+                                <button class="btn btn-primary" ng-click="downloadFPFile()"> {{ 'ACTION_LOAD' | translate}}</button>
+                            </div>
+                        </form>
+                    </tab>
+                </tabset>
+            </div>
+
+        </fieldset>
+
+    </form>
+
+    <div  class="form-group">
+        <div class="col-md-9 col-md-offset-3" ng-include="'/modules/core/views/template/statuses.html'" />
+    </div>
+
+</div>
+<div class="modal-footer">
+    <!--button class="btn btn-primary" ng-click="ok()">{{ 'ACTION_OK' | translate}}</button-->
+    <button class="btn btn-warning" ng-click="cancel()">{{ 'ACTION_CANCEL' | translate}}</button>
+</div>

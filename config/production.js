@@ -47,8 +47,7 @@ module.exports = {
                 'public/lib/bootstrap/dist/css/bootstrap-theme.min.css',
                 'public/lib/angular-grid/ng-grid.min.css',
                 'public/lib/angular-bootstrap-nav-tree/dist/abn_tree.css',
-                'public/lib/fontawesome/css/font-awesome.min.css',
-                'public/brightsea/wpt/wpt.css'
+                'public/lib/fontawesome/css/font-awesome.min.css'
             ],
             js: [
                 'public/lib/filepicker/index.js',
@@ -67,20 +66,16 @@ module.exports = {
                 'public/lib/angular-grid/build/ng-grid.min.js',
                 'public/lib/angular-bootstrap-nav-tree/dist/abn_tree_directive.js',
                 'public/lib/angular-translate/angular-translate.min.js',
-                'public/lib/angular-bootstrap/ui-bootstrap-tpls.min.js',
-				// 'public/lib/js-xls/dist/xls.core.min.js',
-				// 'public/lib/js-xlsx/dist/xlsx.core.min.js',
-				// 'public/lib/Blob/Blob.js',
-				// 'public/lib/FileSaver/FileSaver.min.js',
-
-                //JSZIP used by js-xlsx need loaded before dojo, otherwise will cause dojoloader issue
-                'public/brightsea/wpt/wpt.js'
+                'public/lib/angular-bootstrap/ui-bootstrap-tpls.min.js'
             ]
         },
         css: 'public/dist/application.min.css',
         js: 'public/dist/application.min.js'
     },
     wptSetting:{
+        cssFile: '/brightsea/wpt/wpt.css',
+        jsfile: '/brightsea/wpt/wpt.js',
+
         dojoConfig: {
             async:1, 
             baseUrl: '/brightsea/dojo/',

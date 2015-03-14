@@ -1,0 +1,30 @@
+<div class="comment-container">
+    <div class="content-container">
+        <div ng-include=" '/modules/comment/views/edit.html' "
+             ng-show="comment.editing"></div>
+        <div class="comment" ng-hide="comment.editing">
+            <div class="text-muted">
+                <strong>{{comment.user.displayName}}</strong>
+                <em>{{comment.created | date:'medium'}}</em>
+            </div>
+            <pre>{{comment.body}}</pre>
+        </div>
+        <ul class="list-inline clearfix">
+            <li>
+                <a href="" ng-click="commentReply(comment)">{{ 'COMMENT_REPLY' | translate }}</a>
+            </li>
+            <li ng-show="comment.user._id == user._id">
+                <a href="" ng-click="commentEdit(comment)">{{ 'COMMENT_EDIT' | translate }}</a>
+            </li>
+            <li ng-show="comment.user._id == user._id && (!comment.children || comment.children.length===0)">
+                <!--span confirm-delete-comment></span-->
+                <a href="" ng-click="deleteComment(comment)">{{ 'COMMENT_DELETE' | translate }}</a>
+            </li>
+        </ul>
+        <div ng-include=" '/modules/comment/views/reply.html' "
+             ng-show="comment.replying"></div>
+    </div>
+
+    <div ng-repeat="comment in comment.children"
+         ng-include=" '/modules/comment/views/comment.html' "></div>
+</div>

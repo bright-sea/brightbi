@@ -1,0 +1,10 @@
+<textarea ng-model="comment.interact"
+          placeholder="{{ 'COMMENT_REPLY_COMMENT' | translate }}"
+          class="form-control" rows="3">
+</textarea>
+<div>
+    <button class="btn btn-default"
+            ng-click="replyComment(comment)">{{ 'COMMENT_SAVE' | translate }}</button>
+    <button class="btn btn-default"
+            ng-click="cancelComment(comment)">{{ 'COMMENT_CANCEL' | translate }}</button>
+</div>
