@@ -1,0 +1,108 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <title>Test</title>
+
+    <style type="text/css">
+        html, body, #wpt-container {width:100%;height:100%;}
+    </style>
+
+    <link rel='stylesheet' href='brightsea/wpt/wpt.css'>
+
+    <script type="text/javascript" src="brightsea/wpt/wpt.js"  data-dojo-config="async:1, baseUrl: 'brightsea/dojo/'"></script>
+    <script type="text/javascript" src="lib/filepicker/index.js"></script>
+    <script type="text/javascript" src="lib/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="lib/highcharts-release/highcharts-all.js"></script>
+    <script type="text/javascript" src="lib/grouped_categories/grouped-categories.js"></script>
+
+
+    <script type="text/javascript">
+        require(["wpt/WebPivotTable","dojo/domReady!"], function(WebPivotTable){
+            var wpt = new WebPivotTable({
+                customOptions:{
+                    reportCssFile: "./brightsea/wpt/wptReport.css",
+                    fileLinks:[{
+                        type: "WPT",
+                        url: "http://bi2.io/json/sample91.wpt",
+                        label: "Predefined small CSV WebPivotTable file"
+                    },{
+                        type: "WPT",
+                        url: "http://bi2.io/json/sample92.wpt",
+                        label: "Predefined Mondrian OLAP WebPivotTable file"
+                    },{
+                        type: "WPT",
+                        url: "http://bi2.io/json/sample93.wpt",
+                        label: "Predefined large CSV WebPivotTable file"
+                    },{
+                        type: "CSV",
+                        url: "http://bi2.io/json/example.csv",
+                        label: "USA Selection Poll Data (Total 4,000 records)"
+                    },{
+                        type: "CSV",
+                        url: "http://bi2.io/json/sales.csv",
+                        label: "Sales Sample Data (Total 2,823 records)"
+                    },{
+                        type: "CSV",
+                        url: "http://bi2.io/json/FL_insurance.csv",
+                        label: "Florida Insurance Data (Total 36,634 records)"
+                    },{
+                        type: "XLS",
+                        url: "http://bi2.io/json/example.xls",
+                        label: "USA Selection Poll Data (Total 4,000 records)"
+                    },{
+                        type: "XLS",
+                        url: "http://bi2.io/json/sales.xls",
+                        label: "Sales Sample Data (Total 2,823 records)"
+                    },{
+                        type: "XLS",
+                        url: "http://bi2.io/json/FL_insurance.xls",
+                        label: "Florida Insurance Data (Total 36,634 records)"
+                    },{
+                        type: "XLSX",
+                        url: "http://bi2.io/json/example.xlsx",
+                        label: "USA Selection Poll Data (Total 4,000 records)"
+                    },{
+                        type: "XLSX",
+                        url: "http://bi2.io/json/sales.xlsx",
+                        label: "Sales Sample Data (Total 2,823 records)"
+                    },{
+                        type: "XLSX",
+                        url: "http://bi2.io/json/FL_insurance.xlsx",
+                        label: "Florida Insurance Data (Total 36,634 records)"
+                    },{
+                        type: "GSS",
+                        url: "https://docs.google.com/spreadsheet/pub?key=0Alkl5EEsxBwBdDFLV2Q4a1NWMmw1TXZBRlFMZ1Rxd0E&output=html",
+                        label: "USA Selection Poll Data (Total 4,000 records)"
+                    },{
+                        type: "GSS",
+                        url: "https://docs.google.com/spreadsheet/pub?key=0Alkl5EEsxBwBdHJMOTh4Sm1BSFlDYXRwVW5lc0xuMVE&output=html",
+                        label: "Sales Sample Data (Total 2,823 records)"
+                    },{
+                        type: "OLAP",
+                        url: "http://bi2.io:8080/mondrian/xmla",
+                        label: "Sample Mondrian OLAP Server"
+                    },{
+                        type: "OLAP",
+                        url: "http://olap.flexmonster.com/olap/msmdpump.dll",
+                        label: "Sample Microsoft Analysis Service"
+//                    },{
+//                        type: "OLAP",
+//                        url: "http://bi2.io:8282/icCube/xmla",
+//                        label: "Sample IcCube OLAP Server"
+                    }],
+                    filepicker:{
+                        key:"A4bieoUsyR4yBrNPkFIvrz"  //bi2.io
+                    }
+                }
+            },"wpt-container");
+
+            wpt.setCsvUrl("/json/example.csv");
+        });
+    </script>
+
+</head>
+
+<body class="claro">
+<div id="wpt-container"></div>
+</body>
+</html>

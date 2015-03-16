@@ -8,6 +8,10 @@
                 <span>{{'HOME_LEARN_MORE' | translate }}</span>
                 <i class="fa fa-angle-double-right"></i>
             </a>
+            <button class="btn btn-primary btn-lg" ng-click="openNewWpt()">
+                {{ 'ACTION_CREATE_NEW_REPORT' | translate }}
+            </button>
+
             <a ng-hide="authentication.user" class="btn btn-primary btn-lg" href="/#!/signin">
                 <i class="fa fa-sign-in"></i>
                 <span>{{'MENU_SIGNIN' | translate }}</span>
