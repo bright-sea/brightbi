@@ -70,8 +70,13 @@ module.exports = {
             js: [
                 'public/lib/filepicker/index.js',
                 'public/lib/jquery/dist/jquery.min.js',
-                'public/lib/highcharts-release/highcharts-all.js',
+                'public/lib/highcharts-release/highcharts.js',
+                'public/lib/highcharts-release/highcharts-3d.js',
+                'public/lib/highcharts-release/highcharts-more.js',
                 'public/lib/grouped_categories/grouped_categories.js',
+                'public/lib/jszip/dist/jszip.min.js',
+                'public/lib/js-xlsx/dist/ods.js',
+                'public/lib/js-xlsx/dist/xlsx.min.js',
 
                 'public/lib/ng-file-upload/angular-file-upload-shim.min.js',
                 'public/lib/angular/angular.min.js',

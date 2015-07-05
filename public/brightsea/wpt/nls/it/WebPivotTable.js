@@ -27,15 +27,15 @@ define({
     Msg_CloudDriveNotSupport: "La rete vi impedisce di utilizzare un driver cloud.",
 
     /* WebPivotTable.js  */
-    Lbl_Sum: "Somma",
-    Lbl_Count: "Conta",
-    Lbl_Average: "Media",
-    Lbl_Max: "Max",
-    Lbl_Min: "Min",
-    Lbl_Median: "Mediana",
-    Lbl_Mode: "Mode",
-    Lbl_StdDev: "Deviazione Standard",
-    Lbl_Variance: "Variazione",
+    Lbl_Stat_Sum: "Somma",
+    Lbl_Stat_Count: "Conta",
+    Lbl_Stat_Average: "Media",
+    Lbl_Stat_Max: "Max",
+    Lbl_Stat_Min: "Min",
+    Lbl_Stat_Median: "Mediana",
+    Lbl_Stat_Mode: "Mode",
+    Lbl_Stat_StdDev: "Deviazione Standard",
+    Lbl_Stat_Variance: "Variazione",
 
     Tab_DrillThrough: "DrillThrough",
 
@@ -65,13 +65,13 @@ define({
     Dlg_LoadData: "Caricare dati dal Data Source",
 
     Mnu_CsvFile: "CSV File (.csv)",
-    Mnu_XlsFile: "XLS File (Excel 97-2004)",
-    Mnu_XlsxFile: "XLSX File (Excel 2007+)",
+    Mnu_ExcelFile: "Excel File (.xlsx/.xlsm/.xlsb/.xls)",
+    Mnu_OdsFile: "Open Office SpreadSheet File (.ods)",
     Mnu_OlapCube: "OLAP Cube",
     Mnu_GssFile: "Foglio di Calcolo Google",
 
     Mnu_Internet: "Link Internet",
-    Mnu_LocalDrive:"Drive Locale",
+    Mnu_LocalDrive:"File Locale",
     Mnu_CopyPaste: "Copia & Incolla",
     Mnu_CloudDrive: "Drive Cloud",
 

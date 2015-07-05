@@ -9,12 +9,17 @@
 
     <link rel='stylesheet' href='brightsea/wpt/wpt.css'>
 
-    <script type="text/javascript" src="brightsea/wpt/wpt.js"  data-dojo-config="async:1, baseUrl: 'brightsea/dojo/'"></script>
     <script type="text/javascript" src="lib/filepicker/index.js"></script>
     <script type="text/javascript" src="lib/jquery/dist/jquery.min.js"></script>
-    <script type="text/javascript" src="lib/highcharts-release/highcharts-all.js"></script>
+    <script type="text/javascript" src="lib/highcharts-release/highcharts.js"></script>
+    <script type="text/javascript" src="lib/highcharts-release/highcharts-3d.js"></script>
+    <script type="text/javascript" src="lib/highcharts-release/highcharts-more.js"></script>
     <script type="text/javascript" src="lib/grouped_categories/grouped-categories.js"></script>
+    <script type="text/javascript" src="lib/jszip/dist/jszip.min.js"></script>
+    <script type="text/javascript" src="lib/js-xlsx/dist/ods.js"></script>
+    <script type="text/javascript" src="lib/js-xlsx/dist/xlsx.min.js"></script>
 
+    <script type="text/javascript" src="brightsea/wpt/wpt.js"  data-dojo-config="async:1, baseUrl: 'brightsea/dojo/'"></script>
 
     <script type="text/javascript">
         require(["wpt/WebPivotTable","dojo/domReady!"], function(WebPivotTable){
@@ -46,27 +51,27 @@
                         url: "http://bi2.io/json/FL_insurance.csv",
                         label: "Florida Insurance Data (Total 36,634 records)"
                     },{
-                        type: "XLS",
+                        type: "EXCEL",
                         url: "http://bi2.io/json/example.xls",
                         label: "USA Selection Poll Data (Total 4,000 records)"
                     },{
-                        type: "XLS",
+                        type: "EXCEL",
                         url: "http://bi2.io/json/sales.xls",
                         label: "Sales Sample Data (Total 2,823 records)"
                     },{
-                        type: "XLS",
+                        type: "EXCEL",
                         url: "http://bi2.io/json/FL_insurance.xls",
                         label: "Florida Insurance Data (Total 36,634 records)"
                     },{
-                        type: "XLSX",
+                        type: "EXCEL",
                         url: "http://bi2.io/json/example.xlsx",
                         label: "USA Selection Poll Data (Total 4,000 records)"
                     },{
-                        type: "XLSX",
+                        type: "EXCEL",
                         url: "http://bi2.io/json/sales.xlsx",
                         label: "Sales Sample Data (Total 2,823 records)"
                     },{
-                        type: "XLSX",
+                        type: "EXCEL",
                         url: "http://bi2.io/json/FL_insurance.xlsx",
                         label: "Florida Insurance Data (Total 36,634 records)"
                     },{
@@ -79,12 +84,16 @@
                         label: "Sales Sample Data (Total 2,823 records)"
                     },{
                         type: "OLAP",
+                        url: "http://sampledata.infragistics.com/olap/msmdpump.dll",
+                        label: "Sample Microsoft Analysis Service"
+                    },{
+                        type: "OLAP",
                         url: "http://bi2.io:8080/mondrian/xmla",
                         label: "Sample Mondrian OLAP Server"
                     },{
                         type: "OLAP",
                         url: "http://olap.flexmonster.com/olap/msmdpump.dll",
-                        label: "Sample Microsoft Analysis Service"
+                        label: "Another Sample Microsoft Analysis Service"
 //                    },{
 //                        type: "OLAP",
 //                        url: "http://bi2.io:8282/icCube/xmla",
