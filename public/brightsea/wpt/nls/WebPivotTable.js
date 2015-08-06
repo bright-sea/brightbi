@@ -100,6 +100,7 @@ define({
         Lbl_Language: "Language",
         Lbl_English: "English",
         Lbl_Chinese: "Chinese",
+        Lbl_Turkish: "Turkish",
         Lbl_French: "French",
         Lbl_German: "German",
         Lbl_Spanish: "Spanish",
@@ -436,6 +437,16 @@ define({
         Msg_NoDataLoaded: "No data loaded",
         Msg_DataLoaded: "Data loaded successfully",
         Msg_SelectFileFromLocal: "Please select a file from local drive",
+        Msg_DiscoveringDataSources: "Discovering datasources: ",
+        Msg_DiscoveringCatalogs: "Discovering catalogs: ",
+        Msg_DiscoveringCubes: "Discovering cubes: ",
+        Msg_LoadingDimensions: "Loading all dimensions: ",
+        Msg_LoadingHierarchies: "Loading all hierarchies: ",
+        Msg_LoadingLevels: "Loading all levels: ",
+        Error_OLAP_NoDataSource: "No datasources found.",
+        Error_OLAP_NoCatalog: "No catalogs found",
+        Error_OLAP_NoDimension: "No dimensions found.",
+
         Btn_ViewLoadedData: "View Loaded Data",
 
         Mnu_SaveToLocal: "To local file",
@@ -629,6 +640,7 @@ define({
     },
 
     zh: true,
+    tr: true,
     pt: true,
     es: true,
     it: true

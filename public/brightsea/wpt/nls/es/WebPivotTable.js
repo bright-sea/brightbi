@@ -99,6 +99,7 @@ define({
     Lbl_Language: "Lenguaje",
     Lbl_English: "Inglés",
     Lbl_Chinese: "Chino",
+    Lbl_Turkish: "Turco",
     Lbl_French: "Francés",
     Lbl_German: "Aleman",
     Lbl_Spanish: "Español",

@@ -98,6 +98,7 @@ define({
     Lbl_Language: "语言",    
     Lbl_English: "英语",    
     Lbl_Chinese: "中文",
+    Lbl_Turkish: "土耳其语",
     Lbl_French: "法语",
     Lbl_German: "德语",
     Lbl_Spanish: "西班牙语",
@@ -434,6 +435,16 @@ define({
     Msg_NoDataLoaded: "没有数据被加载",
     Msg_DataLoaded: "数据已经加载好",
     Msg_SelectFileFromLocal: "请从本地驱动器选择一个文件",
+    Msg_DiscoveringDataSources: "正在查找数据源: ",
+    Msg_DiscoveringCatalogs: "正在查找分类: ",
+    Msg_DiscoveringCubes: "正在查找多维数据集: ",
+    Msg_LoadingDimensions: "正在加载所有的维度: ",
+    Msg_LoadingHierarchies: "正在加载所有的层次结构: ",
+    Msg_LoadingLevels: "正在加载所有的层级: ",
+    Error_OLAP_NoDataSource: "没有找到数据源。",
+    Error_OLAP_NoCatalog: "没有找到分类。",
+    Error_OLAP_NoDimension: "没有找到维度。",
+
     Btn_ViewLoadedData: "查看已加载数据",
 
 
